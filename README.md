@@ -5,9 +5,9 @@ A production-grade REST API built with FastAPI and PostgreSQL.
 ## Stack
 - **FastAPI** — web framework
 - **PostgreSQL** — database
-- **SQLAlchemy** — ORM (Object Relational MApper)
+- **SQLAlchemy** — ORM (Object Relational Mapper)
 - **JWT** — authentication
-- **Alembic** — migrations  (coming soon)
+- **Alembic** — migrations
 
 ## Auth
 - `POST /users/rergister` — create account
